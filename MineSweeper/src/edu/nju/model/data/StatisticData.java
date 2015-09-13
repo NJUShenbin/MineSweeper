@@ -14,7 +14,7 @@ public class StatisticData {
 	}
 	
 	public boolean saveStatistic(StatisticPO statistic){
-		return true;
+		return false;
 	}
 
 }
